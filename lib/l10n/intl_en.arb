@@ -1,0 +1,9 @@
+{
+    "lang" : "EN",
+    "appbarTitle" : "TodoTasks",
+    "homeTitle" : "Tasks",
+    "onboardingtitle" : "Start adding and exeuting your tasks",
+    "searchHint" : "Search",
+    "TaskHint" : "Add a new todo item",
+    "start" : "start"
+}
